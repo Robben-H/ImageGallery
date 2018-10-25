@@ -31,7 +31,7 @@ function perparePlaceholder() {
     //添加img标签
     var image = document.createElement("img");
     image.setAttribute("id","zhanwei");
-    image.setAttribute("src","../images/kongbai.png");
+    image.setAttribute("src","images/kongbai.png");
     image.setAttribute("alt","My Image Gallery");
     //添加p标签
     var para = document.createElement("p");
